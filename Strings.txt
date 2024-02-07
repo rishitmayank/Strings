@@ -1,0 +1,28 @@
+w="Welcome to WT Code Tech"
+n=w.lower()
+print(n)
+
+u=w.upper()
+print(u)
+
+t=w.title()
+print(t)
+
+w="Welcome to WT Codetech"
+c=w.capitalize()
+print(c)
+
+
+# w=w[-1::-1]
+# # w=w[-1::-1]
+# # print(w[6])
+# # print(w[6])
+# # print(w[6])
+# # print(w[6])print(w[6])
+# t=len(w)
+# print(t)
+
+# print("")
+# for a in range(t-1,-1,-1):
+#     print(w[a])
+
